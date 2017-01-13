@@ -1,0 +1,189 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="false">
+  <folder name="css">
+    <file name="site_global.css" crc="161360804"/>
+    <file name="master_galer_a.css" crc="4256706702" ref="almacenes-y-centros-comerciales:data-centers:desarrollos-mixtos:hospitales:hoteles:obras-institucionales-y-de-infraestructura:oficinas:plantas-industriales:data-center-banamex:triara-queretaro:plaza-carso:hotel-shangri-la-vallarta"/>
+    <file name="master_master.css" crc="177308394" ref="almacenes-y-centros-comerciales:data-centers:desarrollos-mixtos:hospitales:hoteles:obras-institucionales-y-de-infraestructura:historia:oficinas:plantas-industriales:data-center-banamex:triara-queretaro:plaza-carso:filosofia:hotel-shangri-la-vallarta:nuestra-gente:nosotros:instalaciones-electricas:instalaciones-de-aire-acondicionado:servicios:instalaciones-hidrosanitarias:obras:instalaciones-especiales:contactanos:valor-agregado"/>
+    <file name="master_index.css" crc="4047907466" ref="index"/>
+    <file name="master_obras-institucionales.css" crc="3772664255" ref="obras-institucionales-y-de-infraestructura"/>
+    <file name="master_almacenes.css" crc="4180452986" ref="almacenes-y-centros-comerciales"/>
+    <file name="master_oficinas.css" crc="3868421401" ref="oficinas"/>
+    <file name="master_data-centers.css" crc="3956391200" ref="data-centers:data-center-banamex:triara-queretaro"/>
+    <file name="master_nosotros.css" crc="4209364007" ref="historia:filosofia:nuestra-gente:nosotros"/>
+    <file name="master_plantas-industriales.css" crc="4100350030" ref="plantas-industriales"/>
+    <file name="master_desarrollos-mixtos.css" crc="204598525" ref="desarrollos-mixtos:plaza-carso"/>
+    <file name="master_servicios.css" crc="229539675" ref="instalaciones-electricas:instalaciones-de-aire-acondicionado:servicios:instalaciones-hidrosanitarias:instalaciones-especiales:valor-agregado"/>
+    <file name="master_cont_ctanos.css" crc="205709042" ref="contactanos"/>
+    <file name="master_hospitales.css" crc="3973828311" ref="hospitales"/>
+    <file name="master_obras.css" crc="4155778900" ref="obras"/>
+    <file name="master_hoteles.css" crc="194801590" ref="hoteles:hotel-shangri-la-vallarta"/>
+    <file name="almacenes-y-centros-comerciales.css" crc="3943489352" ref="almacenes-y-centros-comerciales"/>
+    <file name="iefonts_almacenes-y-centros-comerciales.css" crc="213789982" ref="almacenes-y-centros-comerciales"/>
+    <file name="data-centers.css" crc="89155971" ref="data-centers"/>
+    <file name="iefonts_data-centers.css" crc="464007821" ref="data-centers"/>
+    <file name="desarrollos-mixtos.css" crc="234556898" ref="desarrollos-mixtos"/>
+    <file name="iefonts_desarrollos-mixtos.css" crc="135161443" ref="desarrollos-mixtos"/>
+    <file name="hospitales.css" crc="3933999465" ref="hospitales"/>
+    <file name="iefonts_hospitales.css" crc="86894236" ref="hospitales"/>
+    <file name="hoteles.css" crc="3888364898" ref="hoteles"/>
+    <file name="iefonts_hoteles.css" crc="3842070865" ref="hoteles"/>
+    <file name="obras-institucionales-y-de-infraestructura.css" crc="33545663" ref="obras-institucionales-y-de-infraestructura"/>
+    <file name="iefonts_obras-institucionales-y-de-infraestructura.css" crc="181483433" ref="obras-institucionales-y-de-infraestructura"/>
+    <file name="historia.css" crc="3855225170" ref="historia"/>
+    <file name="iefonts_historia.css" crc="4085133095" ref="historia"/>
+    <file name="oficinas.css" crc="3927451221" ref="oficinas"/>
+    <file name="iefonts_oficinas.css" crc="3983814559" ref="oficinas"/>
+    <file name="plantas-industriales.css" crc="138670558" ref="plantas-industriales"/>
+    <file name="iefonts_plantas-industriales.css" crc="3784084379" ref="plantas-industriales"/>
+    <file name="data-center-banamex.css" crc="277206279" ref="data-center-banamex"/>
+    <file name="iefonts_data-center-banamex.css" crc="4005013350" ref="data-center-banamex"/>
+    <file name="triara-queretaro.css" crc="3779472545" ref="triara-queretaro"/>
+    <file name="iefonts_triara-queretaro.css" crc="232291543" ref="triara-queretaro"/>
+    <file name="plaza-carso.css" crc="4109501067" ref="plaza-carso"/>
+    <file name="iefonts_plaza-carso.css" crc="3802486891" ref="plaza-carso"/>
+    <file name="filosofia.css" crc="3769946177" ref="filosofia"/>
+    <file name="iefonts_filosofia.css" crc="329863247" ref="filosofia"/>
+    <file name="index.css" crc="3820839051" ref="index"/>
+    <file name="iefonts_index.css" crc="140217703" ref="index"/>
+    <file name="hotel-shangri-la-vallarta.css" crc="311321087" ref="hotel-shangri-la-vallarta"/>
+    <file name="iefonts_hotel-shangri-la-vallarta.css" crc="3989906821" ref="hotel-shangri-la-vallarta"/>
+    <file name="nuestra-gente.css" crc="344461150" ref="nuestra-gente"/>
+    <file name="iefonts_nuestra-gente.css" crc="3989096118" ref="nuestra-gente"/>
+    <file name="nosotros.css" crc="3831868580" ref="nosotros"/>
+    <file name="iefonts_nosotros.css" crc="409728300" ref="nosotros"/>
+    <file name="instalaciones-electricas.css" crc="4285542886" ref="instalaciones-electricas"/>
+    <file name="iefonts_instalaciones-electricas.css" crc="3900439490" ref="instalaciones-electricas"/>
+    <file name="instalaciones-de-aire-acondicionado.css" crc="332280792" ref="instalaciones-de-aire-acondicionado"/>
+    <file name="iefonts_instalaciones-de-aire-acondicionado.css" crc="4068849416" ref="instalaciones-de-aire-acondicionado"/>
+    <file name="servicios.css" crc="3852769257" ref="servicios"/>
+    <file name="iefonts_servicios.css" crc="4031940872" ref="servicios"/>
+    <file name="instalaciones-hidrosanitarias.css" crc="3772847083" ref="instalaciones-hidrosanitarias"/>
+    <file name="iefonts_instalaciones-hidrosanitarias.css" crc="244733900" ref="instalaciones-hidrosanitarias"/>
+    <file name="obras.css" crc="4056568577" ref="obras"/>
+    <file name="iefonts_obras.css" crc="4028059561" ref="obras"/>
+    <file name="instalaciones-especiales.css" crc="366782165" ref="instalaciones-especiales"/>
+    <file name="iefonts_instalaciones-especiales.css" crc="250815040" ref="instalaciones-especiales"/>
+    <file name="contactanos.css" crc="91362875" ref="contactanos"/>
+    <file name="iefonts_contactanos.css" crc="23375175" ref="contactanos"/>
+    <file name="valor-agregado.css" crc="4044960032" ref="valor-agregado"/>
+    <file name="iefonts_valor-agregado.css" crc="4221823707" ref="valor-agregado"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:servicios:obras:contactanos:historia:filosofia:nuestra-gente:instalaciones-electricas:instalaciones-de-aire-acondicionado:instalaciones-hidrosanitarias:instalaciones-especiales:valor-agregado:almacenes-y-centros-comerciales:data-centers:desarrollos-mixtos:hospitales:hoteles:obras-institucionales-y-de-infraestructura:oficinas:plantas-industriales:data-center-banamex:triara-queretaro:plaza-carso:hotel-shangri-la-vallarta"/>
+    <file name="museutils.js" crc="4291592202" ref="index:nosotros:servicios:obras:contactanos:historia:filosofia:nuestra-gente:instalaciones-electricas:instalaciones-de-aire-acondicionado:instalaciones-hidrosanitarias:instalaciones-especiales:valor-agregado:almacenes-y-centros-comerciales:data-centers:desarrollos-mixtos:hospitales:hoteles:obras-institucionales-y-de-infraestructura:oficinas:plantas-industriales:data-center-banamex:triara-queretaro:plaza-carso:hotel-shangri-la-vallarta"/>
+    <file name="webpro.js" crc="3903299128" ref="index:data-centers:desarrollos-mixtos:hospitales:hoteles:obras-institucionales-y-de-infraestructura:data-center-banamex:triara-queretaro:plaza-carso:hotel-shangri-la-vallarta"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:data-centers:desarrollos-mixtos:hospitales:hoteles:obras-institucionales-y-de-infraestructura:data-center-banamex:triara-queretaro:plaza-carso:hotel-shangri-la-vallarta"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:data-centers:desarrollos-mixtos:hospitales:hoteles:obras-institucionales-y-de-infraestructura:data-center-banamex:triara-queretaro:plaza-carso:hotel-shangri-la-vallarta"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:data-centers:desarrollos-mixtos:hospitales:hoteles:obras-institucionales-y-de-infraestructura:data-center-banamex:triara-queretaro:plaza-carso:hotel-shangri-la-vallarta"/>
+    <file name="jquery.scrolleffects.js" crc="4006931061" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3905429900" ref="index"/>
+    <file name="dsc_01652.jpg" crc="3834510016" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:data-centers:desarrollos-mixtos:hospitales:hoteles:obras-institucionales-y-de-infraestructura:data-center-banamex:triara-queretaro:plaza-carso:hotel-shangri-la-vallarta"/>
+    <file name="dsc_5168.jpg" crc="269288188" ref="index"/>
+    <file name="dsc_5190.jpg" crc="4226266366" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:data-centers:desarrollos-mixtos:hospitales:hoteles:obras-institucionales-y-de-infraestructura:data-center-banamex:triara-queretaro:plaza-carso:hotel-shangri-la-vallarta"/>
+    <file name="curva.png" crc="144974882" ref="index"/>
+    <file name="sombra.png" crc="3850011103" ref="index:nosotros:servicios:obras:contactanos:historia:filosofia:nuestra-gente:instalaciones-electricas:instalaciones-de-aire-acondicionado:instalaciones-hidrosanitarias:instalaciones-especiales:valor-agregado:almacenes-y-centros-comerciales:data-centers:desarrollos-mixtos:hospitales:hoteles:obras-institucionales-y-de-infraestructura:oficinas:plantas-industriales:data-center-banamex:triara-queretaro:plaza-carso:hotel-shangri-la-vallarta"/>
+    <file name="logo.jpg" crc="385858096" ref="index:nosotros:servicios:obras:contactanos:historia:filosofia:nuestra-gente:instalaciones-electricas:instalaciones-de-aire-acondicionado:instalaciones-hidrosanitarias:instalaciones-especiales:valor-agregado:almacenes-y-centros-comerciales:data-centers:desarrollos-mixtos:hospitales:hoteles:obras-institucionales-y-de-infraestructura:oficinas:plantas-industriales:data-center-banamex:triara-queretaro:plaza-carso:hotel-shangri-la-vallarta"/>
+    <file name="dsc_1939223x159.jpg" crc="4246304955" ref="index"/>
+    <file name="dsc_3004-u5189.jpg" crc="79146942" ref="index"/>
+    <file name="sello.jpg" crc="11828652" ref="index"/>
+    <file name="nosotros.jpg" crc="487568617" ref="nosotros:historia:filosofia:nuestra-gente"/>
+    <file name="curva chica.png" crc="4208653252" ref="nosotros:servicios:obras:contactanos:historia:filosofia:nuestra-gente:instalaciones-electricas:instalaciones-de-aire-acondicionado:instalaciones-hidrosanitarias:instalaciones-especiales:valor-agregado:almacenes-y-centros-comerciales:data-centers:desarrollos-mixtos:hospitales:hoteles:obras-institucionales-y-de-infraestructura:oficinas:plantas-industriales:data-center-banamex:triara-queretaro:plaza-carso:hotel-shangri-la-vallarta"/>
+    <file name="grafica.jpg" crc="4139349102" ref="nosotros"/>
+    <file name="servicios.jpg" crc="281144507" ref="servicios:instalaciones-electricas:instalaciones-de-aire-acondicionado:instalaciones-hidrosanitarias:instalaciones-especiales:valor-agregado"/>
+    <file name="obras-favicon.ico" crc="275712337" ref="obras"/>
+    <file name="obras.jpg" crc="422087092" ref="obras:almacenes-y-centros-comerciales:data-centers:desarrollos-mixtos:hospitales:hoteles:obras-institucionales-y-de-infraestructura:oficinas:plantas-industriales:data-center-banamex:triara-queretaro:plaza-carso:hotel-shangri-la-vallarta"/>
+    <file name="dsc_5190307x187.jpg" crc="287237713" ref="obras"/>
+    <file name="dsc_0169226x151.jpg" crc="4245771935" ref="obras"/>
+    <file name="dsc_5302 editada229x153.jpg" crc="444508544" ref="obras"/>
+    <file name="fachada sur abc editada221x166.jpg" crc="234522173" ref="obras"/>
+    <file name="dsc_0564 editada245x163.jpg" crc="242264181" ref="obras"/>
+    <file name="dsc_9872 2235x157.jpg" crc="4219811471" ref="obras"/>
+    <file name="antara polancob-u5816.jpg" crc="4003763711" ref="obras"/>
+    <file name="img_3026.jpg" crc="3895437626" ref="obras"/>
+    <file name="contacto.jpg" crc="3999856250" ref="contactanos"/>
+    <file name="mapa.jpg" crc="374047265" ref="contactanos"/>
+    <file name="filosofía-favicon.ico" crc="275712337" ref="filosofia"/>
+    <file name="nuestra gente.jpg" crc="518811967" ref="nuestra-gente"/>
+    <file name="instalaciones-eléctricas-favicon.ico" crc="275712337" ref="instalaciones-electricas"/>
+    <file name="dsc_3052-u5441.jpg" crc="102588653" ref="instalaciones-electricas"/>
+    <file name="dsc_1939.jpg" crc="502119312" ref="instalaciones-de-aire-acondicionado"/>
+    <file name="moonpalacepuntacana1 editada-u5452.jpg" crc="4082945378" ref="instalaciones-hidrosanitarias"/>
+    <file name="img_4227-u5457.jpg" crc="145220609" ref="instalaciones-especiales"/>
+    <file name="valor-agregado-favicon.ico" crc="275712337" ref="valor-agregado"/>
+    <file name="img_2925® cascos naranjas-u5462.jpg" crc="335039247" ref="valor-agregado"/>
+    <file name="dsc_0169.jpg" crc="4101736182" ref="data-centers"/>
+    <file name="dsc_0052.jpg" crc="448412725" ref="data-centers"/>
+    <file name="dsc_0071.jpg" crc="4033236845" ref="data-centers"/>
+    <file name="dsc_0255 editada copy.jpg" crc="150611754" ref="data-centers"/>
+    <file name="dsc_0169113x75.jpg" crc="3984437646" ref="data-centers"/>
+    <file name="dsc_0052113x75.jpg" crc="202359933" ref="data-centers"/>
+    <file name="dsc_0071113x75.jpg" crc="3783216324" ref="data-centers"/>
+    <file name="dsc_0255 editada copy113x75.jpg" crc="330095539" ref="data-centers"/>
+    <file name="dsc_51902.jpg" crc="3934713973" ref="desarrollos-mixtos"/>
+    <file name="fachada sur abc editada.jpg" crc="4229056889" ref="hospitales"/>
+    <file name="dsc_0564 editada.jpg" crc="296302618" ref="hoteles"/>
+    <file name="dsc_0202 copy.jpg" crc="324831258" ref="hoteles"/>
+    <file name="dsc_0573 (537).jpg" crc="336013529" ref="hoteles"/>
+    <file name="hrealdelmar13.jpg" crc="231643668" ref="hoteles"/>
+    <file name="dsc_0564 editada113x75.jpg" crc="102624446" ref="hoteles"/>
+    <file name="dsc_0202 copy113x75.jpg" crc="385926380" ref="hoteles"/>
+    <file name="dsc_0573 (537)113x75.jpg" crc="3956598588" ref="hoteles"/>
+    <file name="hrealdelmar13113x75.jpg" crc="3818075305" ref="hoteles"/>
+    <file name="dsc_9872 2.jpg" crc="4252831767" ref="obras-institucionales-y-de-infraestructura"/>
+    <file name="dsc_9900 editada.jpg" crc="4257703133" ref="obras-institucionales-y-de-infraestructura"/>
+    <file name="dsc_9927.jpg" crc="314631332" ref="obras-institucionales-y-de-infraestructura"/>
+    <file name="dsc_9872 2113x75.jpg" crc="461842519" ref="obras-institucionales-y-de-infraestructura"/>
+    <file name="dsc_9900 editada113x75.jpg" crc="3896621906" ref="obras-institucionales-y-de-infraestructura"/>
+    <file name="dsc_9927113x75.jpg" crc="4131776737" ref="obras-institucionales-y-de-infraestructura"/>
+    <file name="dsc_2997.jpg" crc="329541709" ref="data-center-banamex"/>
+    <file name="dsc_3053 2.jpg" crc="477876903" ref="data-center-banamex"/>
+    <file name="dsc_3172 editada.jpg" crc="4279392267" ref="data-center-banamex"/>
+    <file name="dsc_2997113x75.jpg" crc="77178387" ref="data-center-banamex"/>
+    <file name="dsc_3053 2113x75.jpg" crc="4259172232" ref="data-center-banamex"/>
+    <file name="dsc_3172 editada113x75.jpg" crc="3955460518" ref="data-center-banamex"/>
+    <file name="triara-querétaro-favicon.ico" crc="275712337" ref="triara-queretaro"/>
+    <file name="img_2925® cascos naranjas.jpg" crc="82155952" ref="triara-queretaro"/>
+    <file name="img_30262.jpg" crc="144232088" ref="triara-queretaro"/>
+    <file name="img_2925® cascos naranjas110x75.jpg" crc="3825742532" ref="triara-queretaro"/>
+    <file name="img_3026113x75.jpg" crc="330347214" ref="triara-queretaro"/>
+    <file name="dsc_5302 editada.jpg" crc="311588759" ref="plaza-carso"/>
+    <file name="dsc_5206.jpg" crc="3846922198" ref="plaza-carso"/>
+    <file name="dsc_5287-u6937.png" crc="504676872" ref="plaza-carso"/>
+    <file name="dsc_5302 editada113x76.jpg" crc="4281213356" ref="plaza-carso"/>
+    <file name="dsc_5206113x75.jpg" crc="68255381" ref="plaza-carso"/>
+    <file name="u6940.png" crc="62826532" ref="plaza-carso"/>
+    <file name="u6940-a.png" crc="62826532" ref="plaza-carso"/>
+    <file name="dsc00018.jpg" crc="4195430533" ref="hotel-shangri-la-vallarta"/>
+    <file name="dsc00021.jpg" crc="4085782839" ref="hotel-shangri-la-vallarta"/>
+    <file name="dsc00018108x144.jpg" crc="315151323" ref="hotel-shangri-la-vallarta"/>
+    <file name="dsc00021108x144.jpg" crc="405723899" ref="hotel-shangri-la-vallarta"/>
+  </folder>
+  <file name="index.html" crc="4201965973" mt="1404149356417" redirect="true"/>
+  <file name="nosotros.html" crc="203589790" mt="1404148818167" redirect="true"/>
+  <file name="servicios.html" crc="254921049" mt="1404147798196" redirect="true"/>
+  <file name="obras.html" crc="151363825" mt="1404149202031" redirect="true"/>
+  <file name="contactanos.html" crc="317458806" mt="1404148877496" redirect="true"/>
+  <file name="historia.html" crc="3924486311" mt="1404148818169" redirect="true"/>
+  <file name="filosofia.html" crc="111168279" mt="1404148818170" redirect="true"/>
+  <file name="nuestra-gente.html" crc="3863850540" mt="1404148818172" redirect="true"/>
+  <file name="instalaciones-electricas.html" crc="3873752751" mt="1404148569408" redirect="true"/>
+  <file name="instalaciones-de-aire-acondicionado.html" crc="3818007775" mt="1404148585419" redirect="true"/>
+  <file name="instalaciones-hidrosanitarias.html" crc="98266939" mt="1404148907761" redirect="true"/>
+  <file name="instalaciones-especiales.html" crc="134974476" mt="1404148713231" redirect="true"/>
+  <file name="valor-agregado.html" crc="344275591" mt="1404148724695" redirect="true"/>
+  <file name="almacenes-y-centros-comerciales.html" crc="509441450" mt="1404149231957" redirect="true"/>
+  <file name="data-centers.html" crc="247611779" mt="1404149231964" redirect="true"/>
+  <file name="desarrollos-mixtos.html" crc="4114559262" mt="1404149231974" redirect="true"/>
+  <file name="hospitales.html" crc="39744650" mt="1404149231983" redirect="true"/>
+  <file name="hoteles.html" crc="3810364112" mt="1404149231990" redirect="true"/>
+  <file name="obras-institucionales-y-de-infraestructura.html" crc="504238771" mt="1404149231998" redirect="true"/>
+  <file name="oficinas.html" crc="28273060" mt="1404149232005" redirect="true"/>
+  <file name="plantas-industriales.html" crc="3880240573" mt="1404149232012" redirect="true"/>
+  <file name="data-center-banamex.html" crc="4025460844" mt="1404149231966" redirect="true"/>
+  <file name="triara-queretaro.html" crc="290177207" mt="1404149231968" redirect="true"/>
+  <file name="plaza-carso.html" crc="83144426" mt="1404149231977" redirect="true"/>
+  <file name="hotel-shangri-la-vallarta.html" crc="3853198903" mt="1404149231992" redirect="true"/>
+</manifest>

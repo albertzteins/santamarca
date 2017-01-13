@@ -1,0 +1,91 @@
+<manifest alg="2" build="10" opt="false" iceEnabled="false" exportTarget="other" resolutions="1x,2x" timestamp="1417204023364">
+  <folder name="css">
+    <file name="site_global.css" crc="3992835251"/>
+    <file name="master_enesa-eng.css" crc="180544326" ref="index-en:team:strategy-and-differentiation"/>
+    <file name="master_energ_a.css" crc="439406397" ref="energia:alianzas-estrategicas"/>
+    <file name="master_salud.css" crc="74122010" ref="salud"/>
+    <file name="master_main.css" crc="4175487899" ref="index-en:energy:team:strategic-alliances:strategy-and-differentiation:health"/>
+    <file name="master_salud-eng.css" crc="242859166" ref="health"/>
+    <file name="master_principal.css" crc="4245922710" ref="index:energia:salud:equipo:alianzas-estrategicas:estrategia-y-diferenciacion"/>
+    <file name="master_enesa.css" crc="3886046127" ref="index:equipo:estrategia-y-diferenciacion"/>
+    <file name="master_energ_a-eng.css" crc="368135829" ref="energy:strategic-alliances"/>
+    <file name="index.css" crc="3880131210" ref="index"/>
+    <file name="iefonts_index.css" crc="3762590440" ref="index"/>
+    <file name="energia.css" crc="152213665" ref="energia"/>
+    <file name="iefonts_energia.css" crc="135422543" ref="energia"/>
+    <file name="index-en.css" crc="3953048448" ref="index-en"/>
+    <file name="iefonts_index-en.css" crc="523850064" ref="index-en"/>
+    <file name="energy.css" crc="87226924" ref="energy"/>
+    <file name="iefonts_energy.css" crc="4217784250" ref="energy"/>
+    <file name="salud.css" crc="519143954" ref="salud"/>
+    <file name="iefonts_salud.css" crc="507526308" ref="salud"/>
+    <file name="team.css" crc="50191704" ref="team"/>
+    <file name="iefonts_team.css" crc="3920179489" ref="team"/>
+    <file name="equipo.css" crc="4279508420" ref="equipo"/>
+    <file name="iefonts_equipo.css" crc="106871053" ref="equipo"/>
+    <file name="alianzas-estrategicas.css" crc="3856762462" ref="alianzas-estrategicas"/>
+    <file name="iefonts_alianzas-estrategicas.css" crc="430922809" ref="alianzas-estrategicas"/>
+    <file name="strategic-alliances.css" crc="499579405" ref="strategic-alliances"/>
+    <file name="iefonts_strategic-alliances.css" crc="419722711" ref="strategic-alliances"/>
+    <file name="strategy-and-differentiation.css" crc="449034323" ref="strategy-and-differentiation"/>
+    <file name="iefonts_strategy-and-differentiation.css" crc="362454236" ref="strategy-and-differentiation"/>
+    <file name="estrategia-y-diferenciacion.css" crc="4067572457" ref="estrategia-y-diferenciacion"/>
+    <file name="iefonts_estrategia-y-diferenciacion.css" crc="4225363185" ref="estrategia-y-diferenciacion"/>
+    <file name="health.css" crc="236749680" ref="health"/>
+    <file name="iefonts_health.css" crc="4123511783" ref="health"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:energia:salud:alianzas-estrategicas:estrategia-y-diferenciacion:equipo:index-en:energy:health:strategy-and-differentiation:team:strategic-alliances"/>
+    <file name="museutils.js" crc="3777594392" ref="index:energia:salud:alianzas-estrategicas:estrategia-y-diferenciacion:equipo:index-en:energy:health:strategy-and-differentiation:team:strategic-alliances"/>
+    <file name="pie.js" crc="3827607177" ref="index:energia:salud:index-en:energy:health"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="index:energia:salud:alianzas-estrategicas:estrategia-y-diferenciacion:equipo:index-en:energy:health:strategy-and-differentiation:team:strategic-alliances"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:energia:salud:alianzas-estrategicas:estrategia-y-diferenciacion:equipo:index-en:energy:health:strategy-and-differentiation:team:strategic-alliances"/>
+    <file name="webpro.js" crc="474087315" ref="index:index-en"/>
+    <file name="musewpdisclosure.js" crc="3952359668" ref="index:index-en"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:energia:salud:alianzas-estrategicas:estrategia-y-diferenciacion:equipo:index-en:energy:health:strategy-and-differentiation:team:strategic-alliances"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4163020574" ref="index"/>
+    <file name="enesa.jpg" crc="395644036" ref="index:index-en"/>
+    <file name="grupoenesa.png" crc="4254778479" ref="index:energia:salud:alianzas-estrategicas:estrategia-y-diferenciacion:equipo:index-en:energy:health:strategy-and-differentiation:team:strategic-alliances"/>
+    <file name="grupoenesa_2x.png" crc="204823129" ref="index:energia:salud:alianzas-estrategicas:estrategia-y-diferenciacion:equipo:index-en:energy:health:strategy-and-differentiation:team:strategic-alliances"/>
+    <file name="flecha.png" crc="4271487399" ref="index:energia:salud:alianzas-estrategicas:estrategia-y-diferenciacion:equipo:index-en:energy:health:strategy-and-differentiation:team:strategic-alliances"/>
+    <file name="flecha_2x.png" crc="479507437" ref="index:energia:salud:alianzas-estrategicas:estrategia-y-diferenciacion:equipo:index-en:energy:health:strategy-and-differentiation:team:strategic-alliances"/>
+    <file name="enesaenergia.png" crc="468828685" ref="index:index-en"/>
+    <file name="enesaenergia_2x.png" crc="147763970" ref="index:index-en"/>
+    <file name="enesasalud.png" crc="4286710640" ref="index:index-en"/>
+    <file name="enesasalud_2x.png" crc="3911434952" ref="index:index-en"/>
+    <file name="energia.jpg" crc="4171652721" ref="energia:energy"/>
+    <file name="selmec.png" crc="4187477716" ref="energia:energy"/>
+    <file name="selmec_2x.png" crc="4187477716" ref="energia:energy"/>
+    <file name="flechablanca.png" crc="307371214" ref="energia:salud:alianzas-estrategicas:energy:health:strategic-alliances"/>
+    <file name="flechablanca_2x.png" crc="392350811" ref="energia:salud:alianzas-estrategicas:energy:health:strategic-alliances"/>
+    <file name="cleaverbrooks.png" crc="73075694" ref="energia:energy"/>
+    <file name="hubardinge.png" crc="256297922" ref="energia:energy"/>
+    <file name="hubardinge_2x.png" crc="256297922" ref="energia:energy"/>
+    <file name="hubard.png" crc="4263421993" ref="energia:energy"/>
+    <file name="hubard_2x.png" crc="4263421993" ref="energia:energy"/>
+    <file name="invenesa.jpg" crc="86965673" ref="energia:energy"/>
+    <file name="energyview.jpg" crc="4182055440" ref="energia:energy"/>
+    <file name="salud.jpg" crc="76370028" ref="salud:health"/>
+    <file name="lmp logo.png" crc="3908174576" ref="salud:health"/>
+    <file name="clinicaruiz.jpg" crc="4130063084" ref="salud:health"/>
+    <file name="alianzas 2.jpg" crc="4039496166" ref="alianzas-estrategicas:strategic-alliances"/>
+    <file name="invenergy.png" crc="96414872" ref="alianzas-estrategicas:strategic-alliances"/>
+    <file name="greengas.jpg" crc="81653629" ref="alianzas-estrategicas:strategic-alliances"/>
+    <file name="estrategia.jpg" crc="2310326" ref="estrategia-y-diferenciacion:strategy-and-differentiation"/>
+    <file name="equipo.jpg" crc="3759245400" ref="equipo:team"/>
+  </folder>
+  <file name="index.html" crc="202169043" mt="1417202229384" redirect="true"/>
+  <file name="energia.html" crc="3872862375" mt="1417203958756" redirect="true"/>
+  <file name="salud.html" crc="4142365029" mt="1417202229401" redirect="true"/>
+  <file name="alianzas-estrategicas.html" crc="97234762" mt="1417202229757" redirect="true"/>
+  <file name="estrategia-y-diferenciacion.html" crc="4097816719" mt="1417202229385" redirect="true"/>
+  <file name="equipo.html" crc="3761686788" mt="1417202229386" redirect="true"/>
+  <file name="index-en.html" crc="4163782399" mt="1416515121392" redirect="true"/>
+  <file name="energy.html" crc="207561012" mt="1417203958758" redirect="true"/>
+  <file name="health.html" crc="275791068" mt="1416515121419" redirect="true"/>
+  <file name="strategy-and-differentiation.html" crc="4223859383" mt="1416515121393" redirect="true"/>
+  <file name="team.html" crc="528716563" mt="1416515121394" redirect="true"/>
+  <file name="strategic-alliances.html" crc="4153982799" mt="1416515121416" redirect="true"/>
+</manifest>

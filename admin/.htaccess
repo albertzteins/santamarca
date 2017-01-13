@@ -1,0 +1,4 @@
+AuthUserFile /home/santamarca/private/.htpasswd
+AuthName "Santamarca"
+AuthType Basic
+Require valid-user
